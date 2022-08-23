@@ -1,4 +1,5 @@
 # JavaSectionFour
 
 I started to practice Functions. 
-Parameters, return values, arguments, doc domments, if-else and switch inside the function, scope, built-in functions
+Parameters, return values, arguments, doc domments, if-else and switch inside the function, scope, built-in functions.
+And there is a challange dice project.
