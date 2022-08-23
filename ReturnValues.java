@@ -20,9 +20,9 @@ public class ReturnValues {
         }
     }
 
-    public static void stringPrinter(double length, double width, double area, String option){
+    public static void stringPrinter(double length, double width, double meansure, String option){
         System.out.println("The " + option + " of rectangle with length "+ length + 
-        " and with " + width + "  is equal to " + area + "\n");
+        " and with " + width + "  is equal to " + meansure + "\n");
     }
 
 }
